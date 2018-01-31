@@ -1,0 +1,82 @@
+body {
+    text-align:center;
+    background-image:url(https://s5.postimg.org/eeqtta2d3/back-to-school.jpg);
+     background-size: cover;
+    background-repeat: no-repeat;
+
+}
+button{
+  cursor: pointer;
+}
+
+.clear{
+  position:relative;
+  left: 225px;
+  bottom: 21.5px;
+
+}
+
+h1 {
+    font-family: Arizonia;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table
+tr
+td {
+  cursor: crosshair;
+    border: 1px solid black;
+}
+
+table{
+  position: relative;
+  bottom: 40px;
+  border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+img{
+ position: relative;
+ top:4.5px;}
+
+label{
+  position:relative;
+  left: 120px;
+  bottom: 35px;
+}
+form{
+  margin-right:100px;
+}
+.color_pallete{
+  position: relative;
+  left: 103px;
+  bottom: 35px;
+}
+.label_canvas{
+  position: relative;
+  bottom: 35px;
+}
+.label_pick_color{
+  position: relative;
+  bottom: 15px;
+}
